@@ -47,7 +47,7 @@
 23. Team collaboration: github/PR etiquette, good workflows, best practices
 24. Allison Wagner: Breaking the problem down + best pseudo coding practices
 25. Garrett Iannuzzi: WTF Webpack? And why do I care?
-26. CSS Styleguides
+26. Ayla Dharamsey: CSS Styleguides / Design Systems, Why do we need them?
 27. David Gitlen --- Linters - what, why, how, types?
 28. Take your `git` foo to the next level
 29. Algorithms or die - top algorithms programmers should know
